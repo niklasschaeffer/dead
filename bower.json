@@ -1,0 +1,16 @@
+{
+  "name": "niklasschaeffer/deadcss",
+  "authors": [
+    "Niklas Schäffer <niklass.schaeffer@gmail.com>"
+  ],
+  "description": "DeadCss Framework",
+  "main": [
+    "dist/css/dead.min.css",
+    "dist/js/dead.min.js"
+  ],
+  "keywords": [
+    "framework"
+  ],
+  "license": "MIT",
+  "homepage": "http://schaeffer.it"
+}
